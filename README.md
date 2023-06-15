@@ -1,4 +1,4 @@
-HackerRank Problem Solving with Python
+# **HackerRank Problem Solving with Python**
 
 This repository contains a collection of solutions to programming problems from the HackerRank platform, implemented using Python and Jupyter Notebooks.
 
@@ -10,13 +10,13 @@ Table of Contents
 - Contributing
 - License
 
-Introduction
+# Introduction
 
 HackerRank is a popular platform that offers coding challenges and competitions to help developers enhance their problem-solving skills. This repository serves as a collection of my solutions to various HackerRank problems, focusing on problem solving using Python.
 
 Each problem is implemented as a Jupyter Notebook file, providing a detailed explanation of the problem statement, approach, and step-by-step solution. Jupyter Notebooks are a great tool for interactive coding and documentation, allowing you to run code cells individually and provide detailed explanations along the way.
 
-Installation
+# Installation
 
 To run the Jupyter Notebooks in this repository locally, you need to have Python and Jupyter Notebook installed on your machine. You can follow the steps below to set up your environment:
 
@@ -48,7 +48,7 @@ You can run individual code cells by selecting them and clicking the "Run" butto
 
 Feel free to explore the provided notebooks, understand the solutions, and adapt them as needed.
 
-Contributing
+# Contributing
 
 If you would like to contribute to this repository, you can follow these steps:
 
