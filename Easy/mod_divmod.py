@@ -1,0 +1,5 @@
+n = int(input())
+divisor = int(input())
+print(n//divisor)
+print(n%divisor)
+print(f'({n//divisor}, {n%divisor})')
